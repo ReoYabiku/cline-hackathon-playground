@@ -1,0 +1,2 @@
+# cline-hackathon-playground
+全部clineに書いてもらうだけなのは癪なので、手を動かして動作確認する用のリポジトリ
